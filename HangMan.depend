@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1647573620 source:c:\users\user\onedrive\desktop\hangman\main.cpp
+	<iostream>
+	<string>
+	<time.h>
+
