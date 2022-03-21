@@ -1,4 +1,4 @@
-Etch A Sketch (modified version of keyboard.cpp)
+Hang Man
 
-Move the cursor by using the arrow keys
+hang man
 
