@@ -1,0 +1,6 @@
+ant	bird	cat	chicken
+cow	bull	dog	elephant
+fish	fox	horse	kangaroo
+lion	monkey	penguin	pig
+rabbit	sheep	tiger	whale
+wolf

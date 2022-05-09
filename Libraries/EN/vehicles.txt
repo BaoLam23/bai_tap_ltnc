@@ -1,0 +1,4 @@
+car	bike	bus	canoe
+scooter	buggy	trolly	parachute
+trolly	truck	cart	submarine
+van	taxi	plane	helicopter

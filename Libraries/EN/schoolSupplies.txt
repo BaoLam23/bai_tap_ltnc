@@ -1,0 +1,4 @@
+pen	pencil	book	backpack
+ruler	glue	paper	scissors
+crayon	eraser	bottle	calculator
+stapler	
